@@ -1,4 +1,5 @@
-# ☕ Power BI Coffee Shop Sales & Performance Dashboard
+# Power BI Coffee Shop Dashboard – Sales & Performance Analysis
+
 
 An interactive **Power BI dashboard** analyzing sales performance, customer behavior, and product trends for a coffee shop. This project showcases my skills in **data visualization, analytics, and storytelling** using real-world data.
 
